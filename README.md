@@ -45,8 +45,8 @@ I love turning ideas into real-world web applications.
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• Python
-• JavaScript  
+• Python<br>
+• JavaScript <br>
 • HTML And CSS 
 
 ### 🚀 Backend
