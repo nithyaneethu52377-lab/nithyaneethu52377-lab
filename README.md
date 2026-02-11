@@ -39,22 +39,19 @@ Passionate Web Developer focused on creating clean and responsive websites.
 Skilled in HTML, CSS, JavaScript, and learning modern frameworks.  
 I love turning ideas into real-world web applications.
 
-Example:
-Passionate Full Stack Developer specializing in scalable backend systems.
-Love building efficient applications and exploring AI/ML integration.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• Language 1  
-• Language 2  
-• Language 3  
+• Python
+• JavaScript  
+• HTML And CSS 
 
 ### 🚀 Backend
-• Framework 1  
-• Framework 2  
+• Python 
+• Django 
 • Framework 3  
 
 ### 💅 Frontend
@@ -71,7 +68,8 @@ Love building efficient applications and exploring AI/ML integration.
 • Git  
 • Docker  
 • AWS  
-• Linux  
+• Linux 
+
 
 ---
 
@@ -115,9 +113,8 @@ Love building efficient applications and exploring AI/ML integration.
 
 ## 📚 Current Goals
 
-- [ ] 
-- [ ] Goal 2  
-- [ ] Goal 3  
+- [ ] To secure a software developer role in a reputed company.
+- [ ] To build real-world web applications that solve practical problems.
 - [ ] Certification / Learning  
 
 ---
