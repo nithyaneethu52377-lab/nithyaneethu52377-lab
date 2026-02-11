@@ -35,7 +35,9 @@
 
 ## 🎯 About Me
 
-YOUR_SHORT_INTRODUCTION_PARAGRAPH
+Passionate Web Developer focused on creating clean and responsive websites.  
+Skilled in HTML, CSS, JavaScript, and learning modern frameworks.  
+I love turning ideas into real-world web applications.
 
 Example:
 Passionate Full Stack Developer specializing in scalable backend systems.
