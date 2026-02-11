@@ -133,7 +133,7 @@ I’m open to working on:
 
 ## 📬 Connect With Me
 
-📧 Email: nithyaneethu52377@gmail.com 
+📧 Email: nithyaneethu52377@gmail.com <br>
 🔗 LinkedIn: YOUR_LINKEDIN_URL  
 🌐 Portfolio: YOUR_PORTFOLIO_URL  
 
