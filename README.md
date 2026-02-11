@@ -115,7 +115,7 @@ Love building efficient applications and exploring AI/ML integration.
 
 ## 📚 Current Goals
 
-- [ ] Goal 1  
+- [ ] 
 - [ ] Goal 2  
 - [ ] Goal 3  
 - [ ] Certification / Learning  
