@@ -50,8 +50,8 @@ I love turning ideas into real-world web applications.
 • HTML And CSS 
 
 ### 🚀 Backend
-• Python 
-• Django 
+• Python <br>
+• Django <br>
 • Framework 3  
 
 ### 💅 Frontend
